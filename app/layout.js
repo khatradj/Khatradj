@@ -1,13 +1,13 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "KhatraDJ.com - DJ Song Download",
-  description: "KhatraDJ.com song download and upload platform"
+  title: "KhatraDJ - New Nagpuri DJ Songs",
+  description: "New Nagpuri DJ Songs 2026 Download"
 };
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="hi">
       <body>{children}</body>
     </html>
   );
